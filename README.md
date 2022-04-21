@@ -4,7 +4,7 @@ A Python Library To Web Scrape Urban Dictionary.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Urban Dictionary Python.
 
 ```bash
 pip install urbandictionary_python
@@ -15,23 +15,23 @@ pip install urbandictionary_python
 ```python
 import urbandictionary_python
 word="" # Enter A Word
-# Make An Instance
+# Make An Instance :
 ubd=urbandictionary_python.UrbanDictionary(word)
-# Get Most Liked Meaning
+# Get Most Liked Meaning :
 print(ubd.meaning())
-# Get Most Liked Meaning's Example
+# Get Most Liked Meaning's Example :
 print(ubd.example())
-# Get Most Liked Meaning's Author Name
+# Get Most Liked Meaning's Author Name :
 print(ubd.author())
-# Get Most Liked Meaning's Publishing Date
+# Get Most Liked Meaning's Publishing Date :
 print(ubd.publishing_date())
-# Get Most Liked Meaning's Mug Link
+# Get Most Liked Meaning's Mug Link :
 print(ubd.mug_link())
-# Get Most Liked Meaning's Front Mug Image
+# Get Most Liked Meaning's Front Mug Image :
 print(ubd.front_mug_image())
-# Get Most Liked Meaning's Back Mug Image
+# Get Most Liked Meaning's Back Mug Image :
 print(ubd.back_mug_image())
-# Get More Meanings List:
+# Get More Meanings List :
 print(ubd.more_meanings())
 # Get More Meanings Of Query :
 for i in ubd.more_meanings():
