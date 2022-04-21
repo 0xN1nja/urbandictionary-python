@@ -5,7 +5,7 @@ GitHub : https://github.com/0xN1nja
 """
 import requests
 import json
-from exceptions import WordNotFound
+from . exceptions import WordNotFound
 
 
 class UrbanDictionary:

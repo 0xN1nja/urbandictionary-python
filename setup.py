@@ -1,6 +1,6 @@
 from setuptools import setup
 import os
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'Urban Dictionary Python (Unofficial)'
 this_directory = os.path.abspath(os.path.dirname(__file__))
 with open(os.path.join(this_directory, 'README.md'), encoding='utf-8') as f:

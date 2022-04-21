@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: urbandictionary-python
-Version: 0.0.2
+Version: 0.0.3
 Summary: Urban Dictionary Python (Unofficial)
 Home-page: UNKNOWN
 Author: Abhimanyu Sharma
@@ -67,7 +67,7 @@ Description: # Urban Dictionary Python (Unofficial)
         Please make sure to update tests as appropriate.
         
         ## License
-        [MIT](https://github.com/0xN1nja/urban-dictionary-python/blob/master/LICENCE.txt)
+        [MIT](https://github.com/0xN1nja/urbandictionary-python/blob/master/LICENCE.txt)
 Keywords: python,urban_dictionary,requests,api
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
