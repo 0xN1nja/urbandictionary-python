@@ -60,7 +60,7 @@ class UrbanDictionary:
         """
         return self.data["mug_back_image"]
 
-    def more_meanings(self) -> list[dict]:
+    def more_meanings(self) -> list:
         """
         Returns More Meanings List Of Dicts Where Each Dict Includes Query's Meaning, Example, Author's Name, Publishing Date And Mug Image (Rear View)...
         """

@@ -4,5 +4,5 @@ Author : Abhimanyu Sharma
 GitHub : https://github.com/0xN1nja
 """
 from . urban_dictionary import UrbanDictionary
-__version__ = "0.0.3 (Latest)"
+__version__ = "0.0.4 (Latest)"
 __author__ = "Abhimanyu Sharma, https://github.com/0xN1nja"
